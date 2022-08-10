@@ -6,11 +6,8 @@ function App() {
   return (
     <CartProvider>
             <Cart />
-            <div>another</div>
+            <div>anothergi </div>
       <Header />
-      <main>
-        <Meals />
-      </main>
     </CartProvider>
   );
 }
