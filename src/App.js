@@ -5,6 +5,7 @@ import CartProvider from './store/CartProvider';
 function App() {
   return (
     <CartProvider>
+            <Cart />
       <Header />
       <main>
         <Meals />
