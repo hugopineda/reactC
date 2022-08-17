@@ -5,6 +5,8 @@ import CartProvider from './store/CartProvider';
 function App() {
   return (
     <CartProvider>
+            <Cart />
+            <div>anothergi </div>
       <Header />
       <main>
         <Meals />
