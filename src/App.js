@@ -9,6 +9,7 @@ function App() {
       <main>
         <Meals />
       </main>
+      otro
     </CartProvider>
   );
 }
